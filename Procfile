@@ -1,1 +1,1 @@
-web: gunicorn ShopNow.wsgi --log-file -
+web:gunicorn ShopNow.wsgi --log-file -
